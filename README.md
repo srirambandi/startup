@@ -1,4 +1,4 @@
-# Start Up
+# Startup Info
 
 This page contains all the details of the BaaS Blockchain Startup being developed. All current links to applications, Development statuses, targets and to-dos for periods will be recorded here. 
 
