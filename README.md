@@ -4,13 +4,13 @@ This page contains all the details of the BaaS Blockchain Startup being develope
 
 ## links
 
-* http://206.189.133.88:3000 (Blockchain Explorer) - Fully functional
+* [http://206.189.133.88:3000] (Blockchain Explorer) - Fully functional
 
-* http://206.189.133.88:6861 (Blockchain Node 1(R)) - All APIs
+* [http://206.189.133.88:6861] (Blockchain Node 1(R)) - All APIs
 
-* http://159.89.170.138:6861 (Blockchain Node 2(R)) - All APIs
+* [http://159.89.170.138:6861] (Blockchain Node 2(R)) - All APIs
 
-* https://159.89.170.138:8080/ (Wallet)
+* [https://159.89.170.138:8080] (Wallet)
 
 ## target
 
